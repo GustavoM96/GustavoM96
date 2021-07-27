@@ -22,9 +22,9 @@ O que me encanta na programação é que não se trata apenas de códigos, mas d
 
 
 ## Contato
-<a href="https://gitlab.com/gustavo.hmessias96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" width="40" height="40"></a>
-<a href="https://www.linkedin.com/in/gustavo-messias/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40"></a>
-<a href="https://gustavo-messias.vercel.app/"><img src="https://cdn.icon-icons.com/icons2/1827/PNG/512/4288584andbusinessfinancepersonalportfolioprofileresume-115772_115741.png" width="40" height="40"></a>
+<a href="https://gitlab.com/gustavo.hmessias96" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" width="40" height="40"></a>
+<a href="https://www.linkedin.com/in/gustavo-messias/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40"></a>
+<a href="https://gustavo-messias.vercel.app/" target="_blank"><img src="https://cdn.icon-icons.com/icons2/1827/PNG/512/4288584andbusinessfinancepersonalportfolioprofileresume-115772_115741.png" width="40" height="40"></a>
 
 
 
