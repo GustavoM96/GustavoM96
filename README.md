@@ -1,4 +1,4 @@
-# Olá, Eu sou o Gustavo Henrique Messias
+# Olá, Eu sou o Gustavo
 
 ## Sobre
 - Moro em São Paulo SP :cityscape: :slightly_smiling_face:
