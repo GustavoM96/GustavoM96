@@ -5,7 +5,7 @@
 - Sou desenvolvedor Full Stack :computer:
 - Gosto de atividade física, leitura, filmes e música :soccer: :book: :musical_score: 
 
-## Porquê ser Dev ?
+## Por que ser Dev ?
 
 O que me encanta na programação é que não se trata apenas de códigos, mas de resolver problemas do mundo atual com inovação e tecnologia.
 
