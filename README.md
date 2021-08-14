@@ -44,8 +44,10 @@ Minha paixão pela programação começou aos 16 anos com meu primeiro emprego c
 <div>
   <a href="mailto:gustavo.hmessias96@gmail.com"><img src="https://img.shields.io/badge/gustavo.hmessias96@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <br>
+  <br>
   <a href="https://gitlab.com/gustavo.hmessias96" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" target="_blank"></a> 
 <a href="https://drive.google.com/file/d/1RE5qfxSrBpv7IdrY5PGb3rCWREEV1FIv/view?usp=sharing"><img src="https://img.shields.io/badge/curriculo-002333?style=for-the-badge&logo=gitbook&logoColor=white"></a>
+  <br>
   <br>
   <a href="https://www.linkedin.com/in/gustavo-messias" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="https://gitlab.com/gustavo.hmessias96" target="_blank"><img src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white" target="_blank"></a>
