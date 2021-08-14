@@ -8,7 +8,7 @@
 
 ## Por que ser Dev ?
 
-O que me encanta na programação é que não se trata apenas de códigos, mas de resolver problemas do mundo atual com inovação e tecnologia.
+Minha paixão pela programação começou aos 16 anos com meu primeiro emprego como eletrotécnico, ali vi o potencial que a tecnologia pode oferecer. Solução de problemas com criatividade, eficiência e praticidade são desafios que me impulsionam a ser programador.
 
 ## Minhas Tecnologias
 <div>
