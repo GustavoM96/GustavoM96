@@ -11,27 +11,33 @@ O que me encanta na programação é que não se trata apenas de códigos, mas d
 
 ## Minhas Tecnologias
 <div>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="40" height="40">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-original.svg" width="40" height="40">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" alt="image tech">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" alt="image tech">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" alt="image tech">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40" alt="image tech">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" alt="image tech">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40" alt="image tech">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" alt="image tech">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="40" height="40" alt="image tech">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-original.svg" width="40" height="40" alt="image tech">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" width="40" height="40" alt="image tech">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain-wordmark.svg" width="40" height="40" alt="image tech">
 
  
-<div>
-  <img  src = "https://github-readme-stats.vercel.app/api/top-langs?username=gustavom96&show_icons=true&locale=pt-br&layout=compact" alt = "natanbarioni" />
-<div>  
+  <div>
+    <img  src = "https://github-readme-stats.vercel.app/api/top-langs?username=gustavom96&show_icons=true&locale=pt-br&layout=compact" alt = "natanbarioni" />
+  <div>  
 </div>
-<div>
+  
+
   
   <h2> Contato <h2>
-  <a href="https://gitlab.com/gustavo.hmessias96" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" width="40" height="40"></a>
-  <a href="https://www.linkedin.com/in/gustavo-messias/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40"></a>
-  <a href="https://gustavo-messias.vercel.app/" target="_blank"><img src="https://cdn.icon-icons.com/icons2/1827/PNG/512/4288584andbusinessfinancepersonalportfolioprofileresume-115772_115741.png" width="40" height="40"></a>
+<div>
+  
+  <a href="https://www.linkedin.com/in/gustavo-messias" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://gitlab.com/gustavo.hmessias96" target="_blank"><img src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white" target="_blank"></a> 
+  <a href="https://gitlab.com/gustavo.hmessias96" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" target="_blank"></a> 
 
 </div>
-
+ 
+    
