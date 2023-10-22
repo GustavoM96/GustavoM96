@@ -1,14 +1,14 @@
 # Olá, Eu sou o Gustavo
 
 ## Sobre
-- Moro em São Paulo SP :cityscape: :slightly_smiling_face:
 - Sou desenvolvedor Full Stack :computer:
-- Estudante na Kenzie Academy Brasil :man_student:
+- Formado na Kenzie Academy Brasil :man_student:
+- Moro em São Paulo SP :cityscape:
 - Gosto de atividade física, leitura, filmes e música :soccer: :book: :musical_score: 
 
-## Por que ser Dev ?
+## Carreira
 
-Minha paixão pela programação começou aos 16 anos com meu primeiro emprego como eletrotécnico, ali vi o potencial que a tecnologia pode oferecer. Solução de problemas com criatividade, eficiência e praticidade são desafios que me impulsionam a ser programador.
+Analista de sistemas no btg pactual, solucionando problemas de negócios através da tecnologia. Sou graduado em engenharia eletrônica na busca constante de aprimoramento no desenvolvimento Full-Stack
 
 ## Minhas Tecnologias
 <div>
