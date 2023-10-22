@@ -1,7 +1,7 @@
 # Olá, Eu sou o Gustavo
 
 ## Sobre
-- Sou desenvolvedor Full Stack :computer:
+- Sou desenvolvedor Full Stack .Net/React.JS :computer:
 - Formado na Kenzie Academy Brasil :man_student:
 - Moro em São Paulo SP :cityscape:
 - Gosto de atividade física, leitura, filmes e música :soccer: :book: :musical_score: 
