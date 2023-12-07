@@ -1,14 +1,10 @@
 # Olá, Eu sou o Gustavo
 
 ## Sobre
-- Sou desenvolvedor Full Stack .Net/React.JS :computer:
-- Formado na Kenzie Academy Brasil :man_student:
+- Sou desenvolvedor Full Stack .Net/React.JS no Banco Btg Pactual :computer:
+- Graduado em engenharia eletrônica e formado na Kenzie Academy Brasil :man_student:
 - Moro em São Paulo SP :cityscape:
-- Gosto de atividade física, leitura, filmes e música :soccer: :book: :musical_score: 
-
-## Carreira
-
-Analista de sistemas no btg pactual, solucionando problemas de negócios através da tecnologia. Sou graduado em engenharia eletrônica na busca constante de aprimoramento no desenvolvimento Full-Stack
+- Gosto de atividade física, leitura, filmes e música :soccer: :book: :musical_score:
 
 ## Minhas Tecnologias
 <div>
@@ -42,15 +38,10 @@ Analista de sistemas no btg pactual, solucionando problemas de negócios atravé
   
 ## Contato
 <div>
-  <a href="mailto:gustavo.hmessias96@gmail.com"><img src="https://img.shields.io/badge/gustavo.hmessias96@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <br>
-  <br>
+  <a href="mailto:gustavo.hmessias96@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://gustavo-messias.vercel.app" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" target="_blank"></a> 
 <a href="https://drive.google.com/file/d/1RE5qfxSrBpv7IdrY5PGb3rCWREEV1FIv/view?usp=sharing"><img src="https://img.shields.io/badge/curriculo-002333?style=for-the-badge&logo=gitbook&logoColor=white"></a>
-  <br>
-  <br>
   <a href="https://www.linkedin.com/in/gustavo-messias" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href="https://gitlab.com/gustavo.hmessias96" target="_blank"><img src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white" target="_blank"></a>
 </div>
  
     
