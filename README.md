@@ -30,7 +30,7 @@
 
  
   <div>
-    <img  src = "https://github-readme-stats.vercel.app/api/top-langs?username=gustavom96&show_icons=true&locale=pt-br&layout=compact" alt = "skill gustvo" />
+    <img  src = "https://github-readme-stats.vercel.app/api/top-langs?username=gustavom96&show_icons=true&locale=pt-br&layout=compact&theme=dark"alt = "skill gustvo" />
   </div>  
       
     
