@@ -1,16 +1,25 @@
+<div align="center" >
+     <img align="right"  src="https://gustavo-messias.vercel.app/static/media/astro2.a7a85399.png" alt="gustavo">
+	<div align="left" >
+		<h1 align="center" >Oi, aqui é o Gustavo :rocket:  </h1>
+</div>	
+</div>	
 
-<p align="center">
-    <img src="https://gustavo-messias.vercel.app/static/media/astro2.a7a85399.png" alt="gustavo">
-</p>
+<div align="left"> 
+<ul>
+<li> Sou desenvolvedor Full Stack .Net/React.JS no Banco Btg Pactual :computer: </li>
+<li> Graduado em engenharia eletrônica e formado na Kenzie Academy Brasil :man_student: </li>
+<li> Moro em São Paulo SP :cityscape: </li>
+<li> Gosto de atividade física, leitura, filmes e música :soccer: :book: :musical_score: </li>
+</ul>
+    
+</div>
 
-<h1 align="center">Oi, aqui é o Gustavo</h1>
-
-- Sou desenvolvedor Full Stack .Net/React.JS no Banco Btg Pactual :computer:
-- Graduado em engenharia eletrônica e formado na Kenzie Academy Brasil :man_student:
-- Moro em São Paulo SP :cityscape:
-- Gosto de atividade física, leitura, filmes e música :soccer: :book: :musical_score:
+</br>
+</br>
 
 ## Minhas Tecnologias
+
 <div>
 <div style="{margin:0}">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" alt="image tech">
