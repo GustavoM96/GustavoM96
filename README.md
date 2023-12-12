@@ -1,5 +1,5 @@
 <div align="center" >
-     <img align="right"  src="https://gustavo-messias.vercel.app/static/media/astro2.a7a85399.png" alt="gustavo">
+     <img align="right"  src="https://gustavo-messias.vercel.app/static/media/astro2.a7a85399.png" alt="rocketman" width="30%">
 	<div align="left" >
 		<h1 align="center" >Oi, aqui é o Gustavo :rocket:  </h1>
 </div>	
@@ -17,7 +17,7 @@
 
 </br>
 </br>
-</br>
+
 
 ## Tech
 
@@ -40,6 +40,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="40" height="40" alt="image tech">
 
 </div>
+
+ </br>
+ </br>
  
   <div>
     <img  src = "https://github-readme-stats.vercel.app/api/top-langs?username=gustavom96&show_icons=true&locale=pt-br&layout=compact&theme=dark"alt = "skill gustvo" />
