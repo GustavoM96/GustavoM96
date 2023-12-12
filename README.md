@@ -3,9 +3,8 @@
     <img src="https://gustavo-messias.vercel.app/static/media/astro2.a7a85399.png" alt="gustavo">
 </p>
 
-<h1 align="center">  Olá, Eu sou o Gustavo </h1>
+<h1 align="center">Oi, aqui é o Gustavo</h1>
 
-## Sobre
 - Sou desenvolvedor Full Stack .Net/React.JS no Banco Btg Pactual :computer:
 - Graduado em engenharia eletrônica e formado na Kenzie Academy Brasil :man_student:
 - Moro em São Paulo SP :cityscape:
