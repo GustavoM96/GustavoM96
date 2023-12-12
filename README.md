@@ -18,10 +18,10 @@
 </br>
 </br>
 
-## Minhas Tecnologias
+## Tech
 
 <div>
-<div style="{margin:0}">
+<div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" alt="image tech">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" alt="image tech">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40" alt="image tech">
