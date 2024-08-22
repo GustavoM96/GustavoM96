@@ -1,9 +1,9 @@
 <div align="center">
-    <img align="right" src="https://gustavo-messias.vercel.app/static/media/astro2.a7a85399.png" alt="rocketman"
-        width-max="150px" padding="10px" width="20%">
     <div align="left">
         <h1 align="center">Oi, aqui é o Gustavo :rocket: </h1>
     </div>
+    <img align="right" src="https://gustavo-messias.vercel.app/static/media/astro2.a7a85399.png" alt="rocketman"
+        width-max="150px" padding="10px" width="20%">
 </div>
 
 
