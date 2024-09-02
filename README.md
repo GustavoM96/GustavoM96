@@ -69,7 +69,7 @@
     <a href="https://gustavo-messias.vercel.app" target="_blank"><img
             src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"
             target="_blank"></a>
-    <a href="https://drive.google.com/file/d/1RE5qfxSrBpv7IdrY5PGb3rCWREEV1FIv/view?usp=sharing"><img
+    <a href="https://drive.google.com/file/d/145EYici2vZP62kTo_0dWvef1e8gGEcs0/view?usp=drive_link"><img
             src="https://img.shields.io/badge/curriculo-002333?style=for-the-badge&logo=gitbook&logoColor=white"></a>
     <a href="https://www.linkedin.com/in/gustavo-messias" target="_blank"><img
             src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"
