@@ -9,13 +9,16 @@
 
 <div align="left">
    
-:computer: Sou desenvolvedor Full Stack .Net/React.JS no Banco Btg Pactual
+👋 Olá Mundo! Sou Gustavo, e meu propósito é desenvolver soluções por meio da tecnologia.
 
-:cityscape: Moro em São Paulo SP
+🎓 Sou Formado em engenharia eletrônica pela Universidade Paulista e com formação full stack pela Kenzie Academy Brasil.
 
-:man_student: Graduado em engenharia eletrônica e formado na Kenzie Academy Brasil
+👨‍💻 Atuei com mais de 3 anos como Analista de Sistemas com as tecnologias:
+.NET (C# e Visual Basic) | TypeScript | React JS | SQL - NoSQL | Mensageria RabbitMQ | Python Django
 
-:soccer:  Gosto de atividade física, leitura, filmes e música 
+🧑‍🚀 Para conhecer meus projetos acesse o link abaixo:
+
+https://gustavo-messias.vercel.app/
     
 
 </div>
