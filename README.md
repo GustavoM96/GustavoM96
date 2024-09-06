@@ -8,12 +8,15 @@
 
 
 <div align="left">
-    <ul>
-        <li> Sou desenvolvedor Full Stack .Net/React.JS no Banco Btg Pactual :computer: </li>
-        <li> Graduado em engenharia eletrônica e formado na Kenzie Academy Brasil :man_student: </li>
-        <li> Moro em São Paulo SP :cityscape: </li>
-        <li> Gosto de atividade física, leitura, filmes e música :soccer: :book: :musical_score: </li>
-    </ul>
+   
+:computer: Sou desenvolvedor Full Stack .Net/React.JS no Banco Btg Pactual
+
+:cityscape: Moro em São Paulo SP
+
+:man_student: Graduado em engenharia eletrônica e formado na Kenzie Academy Brasil
+
+:soccer:  Gosto de atividade física, leitura, filmes e música 
+    
 
 </div>
 
@@ -62,7 +65,7 @@
 </div>
 
 
-## Contato
+## Entre em Contato
 <div>
     <a href="mailto:gustavo.hmessias96@gmail.com"><img
             src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
