@@ -11,8 +11,8 @@
    
 👋 Olá Mundo! Sou Gustavo, e meu propósito é desenvolver soluções por meio da tecnologia.
 
-👨‍💻 Atuei com mais de 3 anos como Analista de Sistemas com as tecnologias:
-.NET (C# e Visual Basic) | TypeScript | React JS | SQL - NoSQL | Mensageria RabbitMQ | Python Django
+👨‍💻 Atuei com mais de 3 anos como Analista de Sistemas (back-end e front-end) com as tecnologias:
+.NET (C# e Visual Basic) |  TypeScript | React JS | SQL - NoSQL | Mensageria RabbitMQ | Python Django
 
 🎓 Sou graduado em engenharia eletrônica pela Universidade Paulista e com formação full stack pela Kenzie Academy Brasil.
 
